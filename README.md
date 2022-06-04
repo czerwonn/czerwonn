@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @czerwonn
-- 👀 I’m interested in gaming lol
+- 👀 I’m interested in men
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a Discord Bot
 - 📫 How to reach me discord: czerwony#2077
